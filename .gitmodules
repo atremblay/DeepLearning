@@ -1,0 +1,6 @@
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/atremblay/tensorflow.git
+[submodule "Keras-DeepLearning-Udacity"]
+	path = Keras-DeepLearning-Udacity
+	url = git@github.com:atremblay/Keras-DeepLearning-Udacity.git
